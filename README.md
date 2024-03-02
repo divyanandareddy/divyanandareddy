@@ -99,11 +99,13 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanandareddy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/divyanandareddy/divyanandareddy/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
-<!-- <div align="center">
+<!-- 
+<img src="https://raw.githubusercontent.com/divyanandareddy/divyanandareddy/output/snake.svg" alt="Snake animation" />
+<div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
